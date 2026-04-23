@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there!
+
+I'm eon. I love meeting new ponies
+
+If we haven't met yet, feel free to whisper or come over and boop me!
+
+
 
 <!--
 **37eon/37eon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
